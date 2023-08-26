@@ -3,6 +3,7 @@
 ![sticky_and_wicked](sticky_and_wicked.png)
 _This image was generated with the assistance of AI._
 
+## Overview
 This repository contains code and documentation for
 
 ```
@@ -25,3 +26,11 @@ The majority of code is intended to be run in a Google Colab notebook to manage 
 
 Please cite the author and course when using code in any personal
 or professional projects. See `LICENSE` for more information.
+
+## Basic Setup
+In order to run the notebooks in this repository you will need to:
+1.  [Create a GitHub account](https://github.com/signup). You can use a personal email (and can always add additional emails later). If you already have a GItHub account, you can use that one.
+
+2. [Add Colaboratory](https://workspace.google.com/marketplace/app/colaboratory/1014160490159) to your Cornell Google Workspace account. It's free!
+
+3. Authorize Colaboratory to access GitHub. You can do this by clicking the "Open in Colab" button at the top of any notebook for the first time, and enabling access to GitHub. Please make sure to **check the option to "Access private repositories and organizations".**
