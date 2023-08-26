@@ -1,6 +1,7 @@
 # Stick & Wicked: A critical introduction to urban data
 
 ![sticky_and_wicked](sticky_and_wicked.png)
+_This image was generated with the assistance of AI._
 
 This repository contains code and documentation for
 
