@@ -1,4 +1,7 @@
 # Stick & Wicked: A critical introduction to urban data
+
+![sticky_and_wicked](sticky_and_wicked.png)
+
 This repository contains code and documentation for
 
 ```
