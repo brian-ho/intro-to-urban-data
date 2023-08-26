@@ -2,7 +2,7 @@
 This repository contains code and documentation for
 
 ```
-    Class	    ARCH 6131 Urban Design Methods / Skills / Tools 1		
+    Class       ARCH 6131 Urban Design Methods / Skills / Tools 1
                 The Gensler Family AAP NYC Center
                 Fall 2023
                 Monday 3:30 PM to 6 PM
