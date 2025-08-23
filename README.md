@@ -8,7 +8,7 @@ This repository contains code and documentation for
 
 ```
     Class       ARCH 6131 Urban Design Methods / Skills / Tools 1
-                The Gensler Family AAP NYC Center
+                Tata Innovation Center
                 Fall 2025
                 Monday 9:30 AM to 12 PM
 
