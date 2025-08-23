@@ -9,8 +9,8 @@ This repository contains code and documentation for
 ```
     Class       ARCH 6131 Urban Design Methods / Skills / Tools 1
                 The Gensler Family AAP NYC Center
-                Fall 2024
-                Monday 3:30 PM to 6 PM
+                Fall 2025
+                Monday 9:30 AM to 12 PM
 
     Instructor	Brian Ho
                 brian@brian-ho.io
